@@ -9,7 +9,4 @@ Esta práctica consistirá en la creación de una calculadora que funcione como 
 [Try me!](https://crisng4.github.io/X-Nav-Practica-Calculadora/calculadora.html)
 
 
-NOTA: 
--Hay un bug en el código, en el caso que se pulse la tecla enter si los números se han introducido mezclando clicks y pulsando teclas, el resultado que aparece es el resultado de la cuenta y el último botón al que se hizo click.
-
 
