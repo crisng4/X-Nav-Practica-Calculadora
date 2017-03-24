@@ -111,6 +111,7 @@
                         input = '/';
                         break;
                     default:
+			input = '';
                     	break;
                 }
                 finished = false; 
